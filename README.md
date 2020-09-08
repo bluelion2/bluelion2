@@ -11,6 +11,10 @@
   - 📫 <a href="mailto:iltk2000@gmail.com">Gmail</a>
   - 📋 [Resume](https://resume.sh89.now.sh)
 
+
+![SeungHun Kang's github stats](https://github-readme-stats.vercel.app/api?username=bluelion2&theme=default&show_icons=true)
+
+
 <div align=center>
   
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbluelion2)](https://hits.seeyoufarm.com)
