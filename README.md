@@ -9,7 +9,7 @@
 
 ### 🤔 궁금하신게 있으시다면 연락주세요! 💬
   - 📫 <a href="mailto:iltk2000@gmail.com">Gmail</a>
-  - 📋 [Resume](https://resume.sh89.now.sh)
+  - 📋 [Resume](https://ksh-resume.vercel.app/)
 
 
 ![SeungHun Kang's github stats](https://github-readme-stats.vercel.app/api?username=bluelion2&theme=default&show_icons=true)
