@@ -9,7 +9,8 @@
 
 ### 🤔 궁금하신게 있으시다면 연락주세요! 💬
   - 📫 <a href="mailto:iltk2000@gmail.com">Gmail</a>
-  - 📋 [Resume](https://ksh-resume.vercel.app/)
+  - 📋 [이력서](https://ksh-resume.vercel.app/)
+  - 📋 [포트폴리오](https://www.notion.so/About-ME-13df0df48e634cc29b7314931f074434?source=copy_link)
 
 
 ![SeungHun Kang's github stats](https://github-readme-stats.vercel.app/api?username=bluelion2&theme=default&show_icons=true)
