@@ -9,6 +9,6 @@
 
 ### 🤔 궁금하신게 있으시다면 연락주세요! 💬
   - 📫 <a href="mailto:iltk2000@gmail.com">Gmail</a>
-  - 📋 [이력서](https://seunghun89.notion.site/About-ME-13df0df48e634cc29b7314931f074434?pvs=74)
+  - 📋 [이력서](https://ksh-resume.vercel.app/)
   - [블로그(구)](https://bluelion2-github-io-ptkq.vercel.app/)
   - [블로그(신규)](https://velog.io/@iltk2000/posts)
